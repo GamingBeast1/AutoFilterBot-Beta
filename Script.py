@@ -132,10 +132,9 @@ I can't find the <b>{}</b> in my database! 🥲
 
     SOURCE_TXT = """<b>ʙᴏᴛ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ -
 
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴄʟᴏsᴇᴅ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta>ʜᴇʀᴇ</a>
+- Yᴏᴜ ᴄᴀɴ ʙᴜʏ ɪᴛ ғʀᴏᴍ ᴍʏ ᴅᴇᴠ: - <a href=https://t.me/EK4MPREETSINGH>Cᴏɴᴛᴀᴄᴛ</a>
 
 ᴅᴇᴠʟᴏᴘᴇʀ -
-<a href=https://telegram.me/Hansaka_Anuhas>ʜᴀɴsᴀᴋᴀ</a>
-<a href=https://telegram.me/Technicalaks123>ᴀᴋs</a></b>"""
+<a href=https://t.me/EK4MPREETSINGH>Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ</a> </b>"""
